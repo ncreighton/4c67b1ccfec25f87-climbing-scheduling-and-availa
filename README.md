@@ -1,0 +1,2 @@
+# 4c67b1ccfec25f87-climbing-scheduling-and-availa
+Professional climbing automation bot — without the professional price tag.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Climbing Scheduling And Availability — fully configured and ready to use - Slash command interface for all major fun
